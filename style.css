@@ -1,0 +1,209 @@
+body{
+    background-color: white;
+    background-image: url(images/Solo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1{color: black;
+font-style:italic  ;
+font-size: 100px;
+text-align: center;
+
+}
+
+
+header{
+background-color: rgba(231, 223, 223, 0.684);
+height: 118px;
+width: 1024px;
+ 
+}
+nav{background-color: rgba(0, 0, 0, 0.321); 
+    width: 1024px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    
+ }
+ main{
+    background-color: rgba(255, 255, 255, 0.386);
+    height: 400px;
+    width: 1024px;
+    
+ }
+ footer{
+    background-color: rgba(0, 0, 0, 0.508);
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    
+
+ }
+
+ .container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+ }
+
+ h2{font-size: 84px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+   }
+   a{
+      color: black;
+      font-family: Arial, Helvetica, sans-serif;
+      text-decoration: none;
+      
+
+   }
+
+   main{
+      background-color: rgba(255, 255, 255, 0.527);
+      height: 400px;
+      width: 1024px;
+   }
+   nav a{
+      text-decoration: none;
+      font-size: 12px;
+      padding-left: 10px;
+      padding-right: 10px;
+
+   }
+   footer{
+      font-size: 10px;
+      text-align: center;
+      color: white;
+   }
+
+   
+   h3{font-size: 84px;
+      color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align:center ;
+   }
+
+   header{
+      background-color: rgba(255, 255, 255, 0.471);
+      height: 118px;
+      width: 1024px;
+      margin-left: auto;
+      margin-right: auto;
+
+   }
+
+   main{
+      background-color: rgba(255, 255, 255, 0.386);
+      height: 400px;
+      width: 1024px;
+   }
+
+   nav{background-color: rgba(0, 0, 0, 0.321); 
+   width: 1024px;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 14px;
+   padding-bottom: 14px;}
+
+   body{background-color: white;
+      background-image: url(images/Solo.png);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;}
+       
+   header{background-color: rgba(255, 255, 255, 0.471);
+   height: 118px;
+   width: 1024px;
+   margin-left: auto;
+   margin-right: auto
+   }
+   
+   .container{
+      margin-left: auto;
+      margin-right: auto;
+      width: 1024px;
+   }  
+    header{
+      font-size:84px;
+   font-style: oblique;
+text-align: center;}
+
+
+body{
+   background-color: white;
+   background-image: url(images/Solo.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+main{
+   background-color: rgba(255, 255, 255, 0.386);
+   height: 400px;
+   width: 1024px;
+}
+
+
+
+h1{color: black;
+font-style: italic;
+font-size: 100px;
+text-align: center;}
+
+header{background-color: rgba(255, 255, 255, 0.471);
+   height: 118px;
+   width: 1024px;
+   margin-left: auto;
+   margin-right: auto
+   }
+
+   nav{background-color: rgba(0, 0, 0, 0.321); 
+      width: 1024px;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 14px;
+      padding-bottom: 14px;}
+   
+
+   .container{
+      margin-left: auto;
+      margin-right: auto;
+      width: 1024px;
+   }  
+
+   header{
+      font-size:84px;
+   font-style: oblique;
+text-align: center;}
+
+body
+{background-color: white;
+   background-image: url(images/Solo.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+
+}
+
+main{
+   background-color: rgba(255, 255, 255, 0.386);
+   height: 680px;
+   width: 1024px;
+}
+ h4{font-size: 50px;
+font-style: normal;
+text-align: center;}
+ 
+main{
+   background-color: rgba(255, 255, 255, 0.386);
+   height: 680px;
+   width: 1024px;
+}
+footer{font-size: 10px;
+   text-align: center;
+   color: white;}
